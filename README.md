@@ -1,7 +1,7 @@
 # Node-MCU-using-IoT
 # KiwisIoT ESP8266 IoT Connection
 # Description
-An IoT project using NodeMCU ESP8266 to send a constant test value (25) to a KiwisIoT widget through Wi-Fi every 3 seconds.
+An IoT project using NodeMCU ESP8266 to send numerical values to a KiwisIoT widget through Wi-Fi in forward and backward sequences.
 # Components Required
 - NodeMCU ESP8266
 - Wi-Fi connection
@@ -15,3 +15,7 @@ An IoT project using NodeMCU ESP8266 to send a constant test value (25) to a Kiw
 - Arduino IDE
 - ESP8266
 - KiwisIoT
+# Working
+- Stores predefined values using an array.
+- Sends values in forward and backward order.
+- Updates the KiwisIoT widget every 3 seconds.
