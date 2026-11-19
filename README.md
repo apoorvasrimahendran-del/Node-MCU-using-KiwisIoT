@@ -8,7 +8,7 @@ An IoT project using NodeMCU ESP8266 to send numerical values to a KiwisIoT widg
 # output
 ![MCU](mcu.jpeg)
 
-![NodeMCU](nodemcu.png)
+![NodeMCU](nodemcufluctuation.jpeg)
 # Source Code
 [View Source Code](nodemcu.ino)
 # Technologies Used
